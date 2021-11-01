@@ -1,5 +1,7 @@
 # 8822BU for Linux
 
+This repo is obsolete. Try this instead (https://github.com/cilynx/rtl88x2bu)
+
 Note: I no longer have a device that requires this driver, thus no guarantees that it still works, only that it compiles on my machine.
 
 Driver for 802.11ac USB Adapter with  
